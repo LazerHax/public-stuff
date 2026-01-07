@@ -8,12 +8,12 @@ regarding the coaches:
 - the E2s for the coaches can be found in the middle on top of the baseplate for regular cars, and on top of the middle truck for the articulated ones.
 
 the second batch release will include:
-Baggage-Mail (78ft)
-Parlor (81ft)
-Lounge (81ft)
-Chair-lounge (81ft)
-Club Parlor (85ft)
-Lunch Counter Cafe Lounge (85ft)
-Dormitory kitchen (85ft)
-Diner (goes with dorm-kitchen) (85ft)
-Lunch Counter Diner (85ft)
+- Baggage-Mail (78ft)
+- Parlor (81ft)
+- Lounge (81ft)
+- Chair-lounge (81ft)
+- Club Parlor (85ft)
+- Lunch Counter Cafe Lounge (85ft)
+- Dormitory kitchen (85ft)
+- Diner (goes with dorm-kitchen) (85ft)
+- Lunch Counter Diner (85ft)
