@@ -41,4 +41,4 @@ the second batch release will include:
 - Dome, lounge (85ft) (ATSF)
 - Dome, default (85ft)
 
-those domes will be normal domes, not full domes
+those domes will be normal domes, not full domes. those might come at a later date.
