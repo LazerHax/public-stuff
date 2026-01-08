@@ -6,7 +6,7 @@ regarding the coaches:
 - they are fully customizable, but by default are aluminum, and the colors are those of my own railroad. you'll have to go down and change them manually.
 - the default spawn height is pretty high; it'll be less on the second batch
 - the E2s for the coaches can be found in the middle on top of the baseplate for regular cars, and on top of the middle truck for the articulated ones.
-- these coaches DO NOT come equipped with autocoupler. i got lazy sorry. if you want autocoupler, the coupler distances should be set to 524.
+- these coaches DO NOT currently come equipped with autocoupler. i got lazy sorry. if you want autocoupler, the coupler distances should be set to 524.
 - these coaches are capable of speeds of up to 160 mph all the way up SSG2 with little to no derailments. have fun!
 - the coaches have two commands: ".lighton" and ".lightoff". the colors and textures of the windows when on/off are configurable in the E2.
 
