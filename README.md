@@ -37,7 +37,7 @@ the second batch release will include:
 - Lunch Counter Diner (85ft) (UP)
 - Dome, sleeper (85ft) (UP)
 - Dome, chair (85ft) (UP)
-- Dome, lounge (85ft) (UP)
+- Dome, diner (85ft) (UP)
 - Dome, lounge (85ft) (UP)
 - Dome, lounge (85ft) (ATSF)
 - Dome, default (85ft)
