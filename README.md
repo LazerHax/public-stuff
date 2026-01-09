@@ -9,6 +9,7 @@ regarding the coaches:
 - these coaches DO NOT currently come equipped with autocoupler. i got lazy sorry. if you want autocoupler, the coupler distances should be set to 524.
 - these coaches are capable of speeds of up to 160 mph all the way up SSG2 with little to no derailments. have fun!
 - the coaches have two commands: ".lighton" and ".lightoff". the colors and textures of the windows when on/off are configurable in the E2.
+- if you want to remove the middle skirting, remove the pushmodels with the model set to "models/ext/stock/passenger/pullman_standard_coach.mdl"
 
 the first batch release includes:
 - Postal-storage (85ft) (UP)
