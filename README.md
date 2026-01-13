@@ -9,6 +9,7 @@ regarding the coaches:
 - these coaches are capable of speeds of up to 160 mph all the way up SSG2 with little to no derailments. have fun!
 - the coaches have two commands: ".lighton" and ".lightoff". the colors and textures of the windows when on/off are configurable in the E2.
 - if you want to remove the middle skirting, remove the pushmodels with the model set to "models/ext/stock/passenger/pullman_standard_coach.mdl"
+- the observation car has a customizable drumhead, with five different variations: round, square, square squat, daylight, and none.
 
 the first batch release includes:
 - Postal-storage (85ft) (UP)
@@ -23,6 +24,7 @@ the first batch release includes:
 - Sleeper, 4-4-2 (85ft) (UP)
 - Double articulated chair (85ft) (UP)
 - Double-articulated diner (85ft) (UP)
+- Rounded Observation (85ft) (UP)
 - Dome, default (85ft)
 
 the second batch release will include:
