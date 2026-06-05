@@ -3,12 +3,11 @@ stuff i have made public. you don't need my permission to use or modify the stuf
 
 regarding the coaches:
 - they do not and will not have interior. i am not doing that.
-- they are fully customizable, but by default are aluminum, and the colors are those of my own railroad. you'll have to go down and change them manually.
+- they are fully customizable, but by default are aluminum, and the colors are set to those of my own railroad. you'll have to go down and change them manually.
 - the default spawn height is pretty high; it'll be less on the second batch
 - the E2s for the coaches can be found in the middle on top of the baseplate for regular cars, and on top of the middle truck for the articulated ones.
 - these coaches are capable of speeds of up to 160 mph all the way up SSG2 with little to no derailments. have fun!
 - the coaches have two commands: ".lighton" and ".lightoff". the colors and textures of the windows when on/off are configurable in the E2.
-- if you want to remove the middle skirting, remove the pushmodels with the model set to "models/ext/stock/passenger/pullman_standard_coach.mdl"
 - the observation car has a customizable drumhead, with five different variations: round, square, square squat, daylight, and none.
 
 the first batch release includes:
