@@ -25,6 +25,8 @@ the first batch release includes:
 - Double-articulated diner (85ft) (UP)
 - Rounded Observation (85ft) (UP)
 - Dome, default (85ft)
+- MILW Superdome (85ft) (MILW)
+- MILW Skytop Parlor (85ft) (MILW)
 
 the second batch release will include:
 - Baggage-Mail (78ft) (UP)
@@ -33,9 +35,9 @@ the second batch release will include:
 - Chair-lounge (81ft) (UP)
 - Club Parlor (85ft) (UP)
 - Lunch Counter Cafe Lounge (85ft) (UP)
-- Dormitory kitchen (85ft) (UP)
-- Diner (goes with dorm-kitchen) (85ft) (UP)
-- Lunch Counter Diner (85ft) (UP)
+- Dormitory kitchen (85ft) (UP) (done)
+- Diner (goes with dorm-kitchen) (85ft) (UP) (done)
+- Lunch Counter Diner (85ft) (UP) (done)
 - Dome, sleeper (85ft) (UP)
 - Dome, chair (85ft) (UP)
 - Dome, diner (85ft) (UP)
