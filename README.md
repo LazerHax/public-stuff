@@ -38,7 +38,7 @@ the second batch release will include:
 - Dormitory kitchen (85ft) (UP) (done)
 - Diner (goes with dorm-kitchen) (85ft) (UP) (done)
 - Lunch Counter Diner (85ft) (UP) (done)
-- Dome, sleeper (85ft) (UP)
+- Dome, sleeper (85ft) (UP) (done)
 - Dome, chair (85ft) (UP) (done)
 - Dome, diner (85ft) (UP) (done)
 - Dome, lounge (85ft) (UP)
