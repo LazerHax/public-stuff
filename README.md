@@ -44,3 +44,4 @@ the second batch release will include:
 - Dome, lounge (85ft) (UP) (done)
 - Dome, observation lounge (85ft) (UP) (no promises)
 - Dome, lounge (85ft) (ATSF)
+- Flat end observation car (85ft)
