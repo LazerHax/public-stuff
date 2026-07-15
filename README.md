@@ -28,20 +28,21 @@ the first batch release includes:
 - MILW Superdome (85ft) (MILW)
 - MILW Skytop Parlor (85ft) (MILW)
 
-the second batch release will include:
+the second batch release includes:
 - Baggage-Mail (78ft) (UP)
-- Parlor (81ft) (UP)
-- Lounge (81ft) (UP)
+- Lounge / Parlor (81ft) (UP)
 - Chair-lounge (81ft) (UP)
-- Club Parlor (85ft) (UP) (done)
-- Lunch Counter Cafe Lounge (85ft) (UP) (done)
-- Dormitory kitchen (85ft) (UP) (done)
-- Diner (goes with dorm-kitchen) (85ft) (UP) (done)
-- Lunch Counter Diner (85ft) (UP) (done)
-- Dome, sleeper (85ft) (UP) (done)
-- Dome, chair (85ft) (UP) (done)
-- Dome, diner (85ft) (UP) (done)
-- Dome, lounge (85ft) (UP) (done)
-- Dome, observation lounge (85ft) (UP) (no promises)
-- Dome, lounge (85ft) (ATSF)
-- Flat end observation car (85ft) (done)
+- Club Parlor (85ft) (UP)
+- Lunch Counter Cafe Lounge (85ft) (UP)
+- Dormitory kitchen (85ft) (UP)
+- Diner (goes with dorm-kitchen) (85ft) (UP)
+- Lunch Counter Diner (85ft) (UP)
+- Dome, sleeper (85ft) (UP)
+- Dome, chair (85ft) (UP)
+- Dome, diner (85ft) (UP)
+- Dome, lounge (85ft) (UP)
+- Flat end observation car (85ft)
+
+coaches i want to do eventually:
+- Train of Tomorrow observation lounge dome
+- ATSF Pleasure Dome
